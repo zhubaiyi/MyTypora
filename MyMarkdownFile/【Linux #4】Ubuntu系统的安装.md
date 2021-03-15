@@ -4,6 +4,8 @@
 
 ​		自从学习了Linux系统之后我的生活变法上了重大的变化（指需要花费大量的时间用于学习自己从来没接触到的东西），不过老师也是比较不错，课上使用的是Ubuntu系统，相比于CentOS是比较不错的。以下是2种常用的方式。
 
+[TOC]
+
 
 
 ## （1）使用虚拟机进行安装
@@ -84,6 +86,8 @@
 
 ![image-20210315175209691](https://raw.githubusercontent.com/zhubaiyi/MyTypora/main/img/image-20210315175209691.png)
 
+### 如果觉得我啰嗦可以直接传送至此。
+
 之后就静静等待安装完毕吧。这个过程需要花很长时间。
 
 ![image-20210315175250155](https://raw.githubusercontent.com/zhubaiyi/MyTypora/main/img/image-20210315175250155.png)
@@ -102,13 +106,13 @@
 
 上来之后第一件事就行把源换成国内的。
 
-本版本是20的请参见文章https://blog.csdn.net/wangyijieonline/article/details/105360138的解决方法
+本版本是20的请参见文章[20版本的换源](https://blog.csdn.net/wangyijieonline/article/details/105360138)的解决方法
 
-本版本是18的请参见文章https://blog.csdn.net/qq_43619461/article/details/109078324的解决方法
+本版本是18的请参见文章[[18版本的换源](https://blog.csdn.net/qq_43619461/article/details/109078324)的解决方法
 
-本版本是16的请参见文章https://blog.csdn.net/wzyaiwl/article/details/88571414的解决方法
+本版本是16的请参见文章[16版本的换源](https://blog.csdn.net/wzyaiwl/article/details/88571414)的解决方法
 
-（2）直接在Windows中安装双系统
+## （2）直接在Windows中安装双系统
 
 打开你的Windows商店，搜索Ubuntu即可下载
 
@@ -118,10 +122,10 @@
 
 因为笔者使用的是虚拟机的方式，因此详情请参见B站的三个视频，有具体的讲解：
 
-https://www.bilibili.com/video/BV1kz4y167G6
+[gitlab使用初始 1](https://www.bilibili.com/video/BV1kz4y167G6)
 
-https://www.bilibili.com/video/BV11T4y1T75K
+[怎么使用gitlab 2](https://www.bilibili.com/video/BV11T4y1T75K)
 
-https://www.bilibili.com/video/BV19U4y1x7gF
+[ gitlab使用初始 3 git源码管理](https://www.bilibili.com/video/BV19U4y1x7gF)
 
 以上就是安装Ubuntu的具体方式了，希望你可以变得更强，顺便请积极讨论反馈，你的加入就是对我最大的支持。
